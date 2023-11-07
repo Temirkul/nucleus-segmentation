@@ -1,2 +1,2 @@
 # nucleus-segmentation
- UNet Nucleus Segmentation
+Nucleus segmentation using UNet, from scratch in PyTorch. 
